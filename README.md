@@ -1,2 +1,3 @@
 # The-International-Brewery-Data-Analysis-
-The Analysis was for the three years performances of the brand in the West Africa region
+The Analysis was for the three years performances of the brand in the West Africa region.
+The dataset was cleaned using Powerbi  and DAX for the calculating measures and Columns.The dashboard,KPI and the visualization explained how each brand performed in these period in terms of quantity sold, profit generated and profit margin. it also diclosed products with least performances. This analysis would enable a better decision making in the coming year and also giving the Company the next step to take to optimize profit and visibiliies at the countries where they have products with poor performances.
